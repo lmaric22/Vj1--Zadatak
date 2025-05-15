@@ -1,0 +1,7 @@
+echo "# Vj1--Zadatak" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lmaric22/Vj1--Zadatak.git
+git push -u origin main 
